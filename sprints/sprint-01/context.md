@@ -47,7 +47,7 @@ tests/radar-noticias/filters.test.ts             # Tests de lógica de filtrado
 
 ## Archivos creados al finalizar el sprint
 
-> ⬇️ Completar aquí al cerrar el Sprint 01 (antes de iniciar el Sprint 02).
+>  Completar aquí al cerrar el Sprint 01 (antes de iniciar el Sprint 02).
 
 ```
 # (vacío — se completa al finalizar el sprint)
